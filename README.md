@@ -1,62 +1,43 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/BackEnd-blueviolet)
 
 # Project Name
 
-> Description the project.
+> This is a simple demo of how to integrate `Ruby on Rails` and ` React` 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby on Rails
+- Git 
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- click here to see the [back-end](https://github.com/jheart-vic/hello-rails-back-end/)
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- computer
 
 ### Setup
+- Run git clone ` https://github.com/jheart-vic/hello-react-front-end.git`
+- Run `npm install`
+- Run `create react app`
 
-### Install
+## Author
 
-### Usage
+👤 **Victor Akabueze**
 
-### Run tests
+- Linkedin [victor-David](linkedin.com/in/victor-chiemerie-302a97230)
+- Twitter [victor-David](https://twitter.com/Victorjheart)
+- Github: [@Victor-David](https://github.com/jheart-vic)
 
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/jheart-vic/hello-react-front-end/issues).
 
 ## Show your support
 
